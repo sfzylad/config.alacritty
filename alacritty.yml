@@ -1,0 +1,14 @@
+font:
+  normal:
+    family: "Iosevka Nerd Font"
+    style: Light
+
+  bold:
+    family: "Iosevka Nerd Font"
+    style: Medium
+
+  italic:
+    family: "Iosevka Nerd Font"
+    style: "Light Italic"
+
+  siae: 14.0
